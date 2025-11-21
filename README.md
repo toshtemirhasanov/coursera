@@ -1,2 +1,2 @@
 # coursera
-assignment-6-complete
+assignment-7-complete
